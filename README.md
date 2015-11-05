@@ -1,4 +1,4 @@
-Travis CI status (master branch): [![Build Status](https://travis-ci.org/exercism/exercism.io.svg?branch=master)](https://travis-ci.org/exercism/exercism.io)
+Travis CI status (master branch): [![Build Status](https://travis-ci.org/Mirantis/vmware-firewall-driver.svg?branch=master)](https://travis-ci.org/Mirantis/vmware-firewall-driver)
 
 # Neutron VMware Firewall Driver
 
