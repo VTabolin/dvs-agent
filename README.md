@@ -3,7 +3,7 @@ Travis CI status (master branch): [![Build Status](https://travis-ci.org/Miranti
 # Neutron VMware Firewall Driver
 
 ## Decription
-Neutron firewall driver for managing Security Groups on VMware vCenter.
+Neutron agent for managing VMware vCenter.
 
 ## Installation
 
